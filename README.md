@@ -6,7 +6,7 @@
 Here are some ideas to get you started:
 # [Jhon Michael Alzate]
 
-**[My Role orand Expertise, e.g., Software Engineer | Data Analyst | Web Developer]**
+**[My Role or and Expertise, e.g., Software Engineer | Data Analyst | Web Developer]**
 *“[I have broad experince with coputer systems uploads and system intgrations, 
 icludinding robotic automotions and sensing development for automotive, also currently 
 enrrolled with Metana as well wicth is helping with skills strengthening in in the 
